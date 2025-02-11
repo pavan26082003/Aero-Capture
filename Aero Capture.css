@@ -1,0 +1,186 @@
+
+body{
+    margin:0%;
+    background-color: aliceblue;
+   
+   
+
+   
+}
+nav{
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+   
+    background-color: rgb(255, 255, 255);
+   
+    z-index: 1000;
+
+    position: sticky;
+    top: 0%;
+    
+    
+}
+#title{
+    margin: 30px;
+}
+
+.menu{
+    display: flex;
+    
+   
+    
+    
+}
+li{
+    display: flex;
+    margin: 8px;
+   
+   
+   
+}
+
+img{
+    width: 100%;
+    position: relative;
+    z-index: -1;
+    display: inline-block;
+    margin: 5%;
+    
+
+}
+
+.text{
+
+
+    color: rgb(136, 178, 220);
+   
+
+   font-size: 150%;
+   font-style:oblique;
+    
+}
+p{
+    font-size: 120%;
+   font-style:oblique;
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.right{
+    display: flexf;
+    flex-basis: 50%;
+    font-size: 20px;
+    margin: 5%;
+}
+.img{
+    flex-basis: 50%;
+}
+
+
+
+.main2{
+    display: flex;
+    flex-direction: row-reverse;
+}
+h5{
+    color: rgb(136, 178, 220);
+   
+
+   font-size: 150%;
+   font-style:oblique;
+    
+}
+.text2 p{
+
+    font-size: 120%;
+   font-style:oblique;
+  
+
+  
+
+   
+
+}
+.main2 img{
+    
+    width: 100%;
+    height: 80%;
+   margin-top: 15%;
+    
+    margin: 5%;
+    
+
+
+}
+a{
+    text-decoration: none;
+    color: rgb(136, 178, 220);
+   
+
+   font-size: 120%;
+   font-style:oblique;
+}
+a:hover{
+    text-decoration: none;
+    color: rgb(207, 83, 139);
+   
+
+   font-size: 100%;
+   font-style:oblique;
+
+}
+#services{
+    text-decoration: none;
+    color: rgb(0, 50, 200);
+   
+
+   font-size: 180%;
+   font-style:oblique;
+}
+#why{
+
+    color: rgb(237, 188, 40);
+   
+
+   font-size: 150%;
+   font-style:oblique;
+
+}
+
+#contact{
+    text-decoration: none;
+    color: rgb(0, 50, 200);
+   
+
+   font-size: 180%;
+   font-style:oblique;
+}
+.why{
+    text-decoration: none;
+    color: rgb(0, 50, 200);
+   
+
+   font-size: 180%;
+   font-style:oblique;
+}
+.get{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.about{
+    text-decoration: none;
+    color: rgb(0, 50, 200);
+   
+
+   font-size: 180%;
+   font-style:oblique;
+
+}
+
+
